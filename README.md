@@ -1,1 +1,2 @@
 # intApp
+pomosni detali
